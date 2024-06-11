@@ -11,3 +11,4 @@ Naprava za merjenje in prikaz razdalje z uporabo Arduina uporablja ultrazvočni 
 |Senzor HC-SR04| 1 |
 |Potenciometer| 1 |
 |Žice| 15 |
+|Upor 220E| 1 |
