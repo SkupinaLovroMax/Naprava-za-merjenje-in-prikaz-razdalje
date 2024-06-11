@@ -12,6 +12,6 @@ Naprava za merjenje in prikaz razdalje z uporabo Arduina uporablja ultrazvočni 
 |Potenciometer| 1 |
 |Žice| 15 |
 
-VEZALNA SHEMA:
+# VEZALNA SHEMA:
 
 ![image](https://github.com/SkupinaLovroMax/Naprava-za-merjenje-in-prikaz-razdalje/assets/171671907/4e21d32a-3137-408f-ab35-94876ba5b152)
