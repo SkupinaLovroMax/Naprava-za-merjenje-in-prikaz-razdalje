@@ -19,4 +19,4 @@ Naprava za merjenje in prikaz razdalje z uporabo Arduina uporablja ultrazvočni 
 # KOMENTAR:
 
 
-# MOŽNE IZBOLŠAVE:
+# MOŽNE IZBOLJŠAVE:
